@@ -1,2 +1,2 @@
 # Classifying_Cybersecurity_Incidents
-The Project aiming to classify the cybersecurity incidents.So, reduce the risk of fraudulent actions. 
+The Project aiming to enhancing the efficiency of Security Operation Centers (SOCs) by developing a machine learning model that can accurately predict the triage grade of cybersecurity incidents. The goal is to create a classification model that categorizes incidents as true positive (TP), benign positive (BP), or false positive (FP) based on historical evidence and customer responses.
